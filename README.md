@@ -1,6 +1,9 @@
 # VR_PacMan
 VR 팩맨게임
-##사용엔진 UNITY (C#)
+-------------
+
+## 사용엔진 UNITY (C#)
+
 ![vr_1](https://user-images.githubusercontent.com/44694917/70127623-b6852d80-16be-11ea-8713-9c924334546a.JPG)
 
 ![vr_2](https://user-images.githubusercontent.com/44694917/70127626-b9801e00-16be-11ea-8a00-6549c6676baf.JPG)
